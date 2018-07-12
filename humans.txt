@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Paul Cirino		pmcirino45@gmail.com 
 
 # THANKS
 
