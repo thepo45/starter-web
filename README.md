@@ -6,6 +6,7 @@ tHIS IS A SIMPLE WEBSITE PROJECCT FOR SHOWING HOW to use Git and Github
 
 This is example is ot show different parts of the Git repository and various commands using a web project. 
 
+THhis is an emergency fix after our stash.
 
 ## Purpose
 
