@@ -9,6 +9,10 @@ This is example is ot show different parts of the Git repository and various com
 
 ## Purpose
 
+AS stated above, the main purpose is to provide simple examples foro Git training course. 
+
 ## How to Contribute
 
 ## Deployment
+
+This is a simple web project, dedployment can be on any web server or even local file systems.
